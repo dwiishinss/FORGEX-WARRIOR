@@ -12,3 +12,16 @@ if(place_meeting(x+speed_horizontal , y, wall_object) ==false){ // false true
 
 }
 
+speed_vertical += grav
+
+if(speed_vertical  > max_speed){
+	speed__vertical = max_speed
+}
+if(place_meeting(x, y+speed_vertical, wall_object) == false){
+	y += speed_vertical
+}else{
+	speed_vertical = 0
+	if(t_space ==true){
+		speed_vertical = -5
+	}
+}
