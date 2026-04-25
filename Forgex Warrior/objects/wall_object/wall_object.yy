@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
   "%Name":"wall_object",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"wall_object",
   "overriddenProperties":[],
   "parent":{
-    "name":"Forgex Warrior",
-    "path":"Forgex Warrior.yyp",
+    "name":"object",
+    "path":"folders/object.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,5 +35,5 @@
     "path":"sprites/mask_spr/mask_spr.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
