@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"wall_object",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"bloco_teste_obj",
+  "eventList":[],
   "managed":true,
-  "name":"wall_object",
+  "name":"bloco_teste_obj",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
     "path":"folders/object.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"wall_object",
+    "path":"objects/wall_object/wall_object.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"mask_spr",
-    "path":"sprites/mask_spr/mask_spr.yy",
+    "name":"wood_spr",
+    "path":"sprites/wood_spr/wood_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,0 +1,5 @@
+Flavio		cadeira, pedra, minério de rubi, bloco de grama, minério de cobre, minério de ouro
+Guilherme	glowstone, bancada de trabalho, vidro, penca de banana, bloco de renascimento, bloco de osso
+Lucas		bloco de piso, feno, minério de diamante, minério de redstone, barreira, cristal espacial
+Lucca		bloco de plástico, fornalha, areia, terra, minério de elixir, minério de carvão
+Yuri		ar condicionado, cerca, minério de ferro, folha, madeira, barro

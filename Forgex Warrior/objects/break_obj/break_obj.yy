@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"wall_object",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"break_obj",
+  "eventList":[],
   "managed":true,
-  "name":"wall_object",
+  "name":"break_obj",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"mask_spr",
-    "path":"sprites/mask_spr/mask_spr.yy",
+    "name":"break_spr",
+    "path":"sprites/break_spr/break_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
