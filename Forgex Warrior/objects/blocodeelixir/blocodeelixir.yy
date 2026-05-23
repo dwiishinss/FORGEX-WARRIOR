@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object8",
+  "%Name":"blocodeelixir",
   "eventList":[],
   "managed":true,
-  "name":"Object8",
+  "name":"blocodeelixir",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
