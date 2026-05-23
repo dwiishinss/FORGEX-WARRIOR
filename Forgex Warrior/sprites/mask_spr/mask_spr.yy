@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Forgex Warrior",
-    "path":"Forgex Warrior.yyp",
+    "name":"utils",
+    "path":"folders/sprites/utils.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"ar_condicionado1",
+  "%Name":"ar_condicionado_1_Obj",
   "eventList":[],
   "managed":true,
-  "name":"ar_condicionado1",
+  "name":"ar_condicionado_1_Obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"criaveis",
+    "path":"folders/object/block/criaveis.yy",
   },
   "parentObjectId":{
     "name":"wall_object",

@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"sprites",
-    "path":"folders/sprites.yy",
+    "name":"naturais",
+    "path":"folders/sprites/block/naturais.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

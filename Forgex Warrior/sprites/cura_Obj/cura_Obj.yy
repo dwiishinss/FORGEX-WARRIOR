@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"outros",
+    "path":"folders/object/outros.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

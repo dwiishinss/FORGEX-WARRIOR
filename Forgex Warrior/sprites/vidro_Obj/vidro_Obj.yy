@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"criaveis",
+    "path":"folders/object/block/criaveis.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

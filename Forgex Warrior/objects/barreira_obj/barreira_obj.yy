@@ -6,8 +6,8 @@
   "name":"barreira_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"naturais",
+    "path":"folders/object/block/naturais.yy",
   },
   "parentObjectId":{
     "name":"wall_object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"barreira_spr",
-    "path":"sprites/barreira_spr/barreira_spr.yy",
+    "name":"barreira_Spr",
+    "path":"sprites/barreira_Spr/barreira_Spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

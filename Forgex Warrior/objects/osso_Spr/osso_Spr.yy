@@ -6,8 +6,8 @@
   "name":"osso_Spr",
   "overriddenProperties":[],
   "parent":{
-    "name":"Forgex Warrior",
-    "path":"Forgex Warrior.yyp",
+    "name":"criaveis",
+    "path":"folders/sprites/block/criaveis.yy",
   },
   "parentObjectId":{
     "name":"wall_object",

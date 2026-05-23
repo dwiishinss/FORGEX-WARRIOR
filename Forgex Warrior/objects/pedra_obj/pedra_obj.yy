@@ -9,8 +9,8 @@
   "name":"pedra_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"naturais",
+    "path":"folders/object/block/naturais.yy",
   },
   "parentObjectId":{
     "name":"wall_object",

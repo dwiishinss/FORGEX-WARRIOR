@@ -9,8 +9,8 @@
   "name":"cadeira_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"criaveis",
+    "path":"folders/object/block/criaveis.yy",
   },
   "parentObjectId":{
     "name":"wall_object",

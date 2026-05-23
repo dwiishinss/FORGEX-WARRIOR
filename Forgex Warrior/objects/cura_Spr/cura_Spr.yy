@@ -6,8 +6,8 @@
   "name":"cura_Spr",
   "overriddenProperties":[],
   "parent":{
-    "name":"Forgex Warrior",
-    "path":"Forgex Warrior.yyp",
+    "name":"outros",
+    "path":"folders/sprites/outros.yy",
   },
   "parentObjectId":{
     "name":"wall_object",

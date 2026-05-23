@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"ar_cordisonado",
+  "%Name":"ar_cordisonado_Obj",
   "eventList":[],
   "managed":true,
-  "name":"ar_cordisonado",
+  "name":"ar_cordisonado_Obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"criaveis",
+    "path":"folders/object/block/criaveis.yy",
   },
   "parentObjectId":{
     "name":"wall_object",

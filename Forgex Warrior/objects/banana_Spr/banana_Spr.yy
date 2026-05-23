@@ -6,8 +6,8 @@
   "name":"banana_Spr",
   "overriddenProperties":[],
   "parent":{
-    "name":"Forgex Warrior",
-    "path":"Forgex Warrior.yyp",
+    "name":"naturais",
+    "path":"folders/sprites/block/naturais.yy",
   },
   "parentObjectId":{
     "name":"wall_object",

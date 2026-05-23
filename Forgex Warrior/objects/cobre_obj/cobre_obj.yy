@@ -9,8 +9,8 @@
   "name":"cobre_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"minerios",
+    "path":"folders/object/block/minerios.yy",
   },
   "parentObjectId":{
     "name":"wall_object",

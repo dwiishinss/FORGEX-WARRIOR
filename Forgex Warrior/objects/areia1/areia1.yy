@@ -6,8 +6,8 @@
   "name":"areia1",
   "overriddenProperties":[],
   "parent":{
-    "name":"object",
-    "path":"folders/object.yy",
+    "name":"naturais",
+    "path":"folders/object/block/naturais.yy",
   },
   "parentObjectId":{
     "name":"wall_object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"areia",
-    "path":"sprites/areia/areia.yy",
+    "name":"areia_Spr",
+    "path":"sprites/areia_Spr/areia_Spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
