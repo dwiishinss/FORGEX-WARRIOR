@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"bloco_teste_obj",
+  "%Name":"areia1",
   "eventList":[],
   "managed":true,
-  "name":"bloco_teste_obj",
+  "name":"areia1",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"tronco",
-    "path":"sprites/tronco/tronco.yy",
+    "name":"areia",
+    "path":"sprites/areia/areia.yy",
   },
   "spriteMaskId":null,
   "visible":true,

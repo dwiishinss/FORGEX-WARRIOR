@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"bloco_teste_obj",
+  "%Name":"terra",
   "eventList":[],
   "managed":true,
-  "name":"bloco_teste_obj",
+  "name":"terra",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"tronco",
-    "path":"sprites/tronco/tronco.yy",
+    "name":"dirt_spr",
+    "path":"sprites/dirt_spr/dirt_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

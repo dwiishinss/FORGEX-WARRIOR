@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"bloco_teste_obj",
+  "%Name":"folha2",
   "eventList":[],
   "managed":true,
-  "name":"bloco_teste_obj",
+  "name":"folha2",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"tronco",
-    "path":"sprites/tronco/tronco.yy",
+    "name":"folha",
+    "path":"sprites/folha/folha.yy",
   },
   "spriteMaskId":null,
   "visible":true,

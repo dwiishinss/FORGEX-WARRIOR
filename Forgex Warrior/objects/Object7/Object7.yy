@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"bloco_teste_obj",
+  "%Name":"Object7",
   "eventList":[],
   "managed":true,
-  "name":"bloco_teste_obj",
+  "name":"Object7",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"tronco",
-    "path":"sprites/tronco/tronco.yy",
+    "name":"bloco_de_plastico",
+    "path":"sprites/bloco_de_plastico/bloco_de_plastico.yy",
   },
   "spriteMaskId":null,
   "visible":true,

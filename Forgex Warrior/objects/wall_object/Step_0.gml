@@ -1,6 +1,7 @@
 if (mouse_check_button(mb_left)){
 	if (place_meeting(x, y, mouse_obj) and distance_to_object(player_obj) < 8) {
 		if(instance_number(break_obj) == 0){
+show_debug_message("aqui")
 			with instance_create_layer(x, y, "Animation", break_obj){
 				other.my_break = id
 			}
