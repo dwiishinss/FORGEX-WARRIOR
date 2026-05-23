@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object12",
+  "%Name":"ar_condicionado1",
   "eventList":[],
   "managed":true,
-  "name":"Object12",
+  "name":"ar_condicionado1",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite15",
-    "path":"sprites/Sprite15/Sprite15.yy",
+    "name":"ar1",
+    "path":"sprites/ar1/ar1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

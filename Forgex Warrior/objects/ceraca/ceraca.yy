@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object11",
+  "%Name":"ceraca",
   "eventList":[],
   "managed":true,
-  "name":"Object11",
+  "name":"ceraca",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite14",
-    "path":"sprites/Sprite14/Sprite14.yy",
+    "name":"cerca",
+    "path":"sprites/cerca/cerca.yy",
   },
   "spriteMaskId":null,
   "visible":true,

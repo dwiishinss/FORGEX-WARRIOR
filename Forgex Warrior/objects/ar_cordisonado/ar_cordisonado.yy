@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object9",
+  "%Name":"ar_cordisonado",
   "eventList":[],
   "managed":true,
-  "name":"Object9",
+  "name":"ar_cordisonado",
   "overriddenProperties":[],
   "parent":{
     "name":"object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"cerca",
-    "path":"sprites/cerca/cerca.yy",
+    "name":"ar2",
+    "path":"sprites/ar2/ar2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
