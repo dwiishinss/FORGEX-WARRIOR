@@ -24,6 +24,8 @@
   "resources":[
     {"id":{"name":"areia1","path":"objects/areia1/areia1.yy",},},
     {"id":{"name":"bloco_teste_obj","path":"objects/bloco_teste_obj/bloco_teste_obj.yy",},},
+    {"id":{"name":"blocodeelixir","path":"objects/blocodeelixir/blocodeelixir.yy",},},
+    {"id":{"name":"blocodeplastico","path":"objects/blocodeplastico/blocodeplastico.yy",},},
     {"id":{"name":"break_obj","path":"objects/break_obj/break_obj.yy",},},
     {"id":{"name":"carvao","path":"objects/carvao/carvao.yy",},},
     {"id":{"name":"folha2","path":"objects/folha2/folha2.yy",},},
