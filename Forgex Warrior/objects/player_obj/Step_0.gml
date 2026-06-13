@@ -6,7 +6,7 @@ t_space = keyboard_check(vk_space)
 
 speed_horizontal = (t_right - t_left)*speed_x
 
-if(place_meeting(x+speed_horizontal , y, wall_object) ==false){ // false true 
+if(place_meeting(x+speed_horizontal , y, wall_obj) ==false){ // false true 
 	x +=speed_horizontal
 	
 
@@ -17,7 +17,7 @@ speed_vertical += grav
 if(speed_vertical  > max_speed){
 	speed__vertical = max_speed
 }
-if(place_meeting(x, y+speed_vertical, wall_object) == false){
+if(place_meeting(x, y+speed_vertical, wall_obj) == false){
 	y += speed_vertical
 }else{
 	speed_vertical = 0

@@ -12,8 +12,8 @@
     "path":"folders/object/block/naturais.yy",
   },
   "parentObjectId":{
-    "name":"wall_object",
-    "path":"objects/wall_object/wall_object.yy",
+    "name":"wall_obj",
+    "path":"objects/wall_obj/wall_obj.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"barreira_Spr",
-    "path":"sprites/barreira_Spr/barreira_Spr.yy",
+    "name":"barreira_spr",
+    "path":"sprites/barreira_spr/barreira_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

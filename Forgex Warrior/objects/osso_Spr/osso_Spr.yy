@@ -12,8 +12,8 @@
     "path":"folders/object/block/criaveis.yy",
   },
   "parentObjectId":{
-    "name":"wall_object",
-    "path":"objects/wall_object/wall_object.yy",
+    "name":"wall_obj",
+    "path":"objects/wall_obj/wall_obj.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Osso_Obj",
-    "path":"sprites/Osso_Obj/Osso_Obj.yy",
+    "name":"osso_spr",
+    "path":"sprites/osso_spr/osso_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

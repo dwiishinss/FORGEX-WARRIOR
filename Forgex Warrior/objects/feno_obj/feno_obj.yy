@@ -12,8 +12,8 @@
     "path":"folders/object/block/criaveis.yy",
   },
   "parentObjectId":{
-    "name":"wall_object",
-    "path":"objects/wall_object/wall_object.yy",
+    "name":"wall_obj",
+    "path":"objects/wall_obj/wall_obj.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

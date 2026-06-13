@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"minerios",
-    "path":"folders/sprites/block/minerios.yy",
+    "path":"folders/sprites/block/minerios/minerios.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

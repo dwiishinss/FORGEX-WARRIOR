@@ -3,7 +3,6 @@
   "%Name":"vdro_Spr",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"vdro_Spr",
@@ -13,8 +12,8 @@
     "path":"folders/object/block/criaveis.yy",
   },
   "parentObjectId":{
-    "name":"wall_object",
-    "path":"objects/wall_object/wall_object.yy",
+    "name":"wall_obj",
+    "path":"objects/wall_obj/wall_obj.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -34,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"vidro_Obj",
-    "path":"sprites/vidro_Obj/vidro_Obj.yy",
+    "name":"vidro_spr",
+    "path":"sprites/vidro_spr/vidro_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

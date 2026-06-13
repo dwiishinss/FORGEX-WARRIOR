@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"criaveis",
-    "path":"folders/sprites/block/criaveis.yy",
+    "name":"craft",
+    "path":"folders/sprites/craft.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -3,7 +3,6 @@
   "%Name":"minerio_de_diamante_obj",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"minerio_de_diamante_obj",
@@ -13,8 +12,8 @@
     "path":"folders/object/block/minerios.yy",
   },
   "parentObjectId":{
-    "name":"wall_object",
-    "path":"objects/wall_object/wall_object.yy",
+    "name":"wall_obj",
+    "path":"objects/wall_obj/wall_obj.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
