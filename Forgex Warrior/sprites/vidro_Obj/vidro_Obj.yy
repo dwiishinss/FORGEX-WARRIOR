@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"criaveis",
-    "path":"folders/object/block/criaveis.yy",
+    "path":"folders/sprites/block/criaveis.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

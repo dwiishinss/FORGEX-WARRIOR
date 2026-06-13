@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"naturais",
-    "path":"folders/object/block/naturais.yy",
+    "path":"folders/sprites/block/naturais.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

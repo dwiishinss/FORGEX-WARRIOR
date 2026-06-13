@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"criaveis",
-    "path":"folders/sprites/block/criaveis.yy",
+    "path":"folders/object/block/criaveis.yy",
   },
   "parentObjectId":{
     "name":"wall_object",

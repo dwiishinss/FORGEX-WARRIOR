@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"ar_cordisonado_Obj",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"ar_cordisonado_Obj",
   "overriddenProperties":[],
