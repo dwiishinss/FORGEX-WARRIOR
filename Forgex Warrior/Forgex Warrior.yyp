@@ -33,7 +33,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.4.222",
+    "IDEVersion":"2026.0.0.16",
   },
   "name":"Forgex Warrior",
   "resources":[
@@ -97,6 +97,9 @@
     {"id":{"name":"carvao_spr","path":"sprites/carvao_spr/carvao_spr.yy",},},
     {"id":{"name":"cerca","path":"sprites/cerca/cerca.yy",},},
     {"id":{"name":"cobre_spr","path":"sprites/cobre_spr/cobre_spr.yy",},},
+    {"id":{"name":"craftdediamate","path":"sprites/craftdediamate/craftdediamate.yy",},},
+    {"id":{"name":"craftdeferro","path":"sprites/craftdeferro/craftdeferro.yy",},},
+    {"id":{"name":"craftderubi","path":"sprites/craftderubi/craftderubi.yy",},},
     {"id":{"name":"cristal_espacial_spr","path":"sprites/cristal_espacial_spr/cristal_espacial_spr.yy",},},
     {"id":{"name":"crobe_spr","path":"sprites/crobe_spr/crobe_spr.yy",},},
     {"id":{"name":"cura_Obj","path":"sprites/cura_Obj/cura_Obj.yy",},},
@@ -126,6 +129,9 @@
     {"id":{"name":"pedra_spacial_spr","path":"sprites/pedra_spacial_spr/pedra_spacial_spr.yy",},},
     {"id":{"name":"pedra_spr","path":"sprites/pedra_spr/pedra_spr.yy",},},
     {"id":{"name":"pedra","path":"sprites/pedra/pedra.yy",},},
+    {"id":{"name":"picaretadediamate","path":"sprites/picaretadediamate/picaretadediamate.yy",},},
+    {"id":{"name":"picaretadeferro","path":"sprites/picaretadeferro/picaretadeferro.yy",},},
+    {"id":{"name":"picaretaderubi","path":"sprites/picaretaderubi/picaretaderubi.yy",},},
     {"id":{"name":"piso_spr","path":"sprites/piso_spr/piso_spr.yy",},},
     {"id":{"name":"player_spr","path":"sprites/player_spr/player_spr.yy",},},
     {"id":{"name":"redstone_spr","path":"sprites/redstone_spr/redstone_spr.yy",},},
