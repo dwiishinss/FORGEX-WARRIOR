@@ -25,3 +25,24 @@ if(place_meeting(x, y+speed_vertical, wall_object) == false){
 		speed_vertical = -5
 	}
 }
+
+
+if (keyboard_check_pressed(ord("I")))
+{
+    show_debug_message("");
+    show_debug_message("===== INVENTARIO =====");
+
+    for (var i = 0; i < array_length(global.inventory); i++)
+    {
+        var item = global.inventory[i];
+
+        show_debug_message(
+            string(i + 1) + ". " +
+            item.nome +
+            " x" +
+            string(item.qtd)
+        );
+    }
+
+    show_debug_message("======================");
+}
