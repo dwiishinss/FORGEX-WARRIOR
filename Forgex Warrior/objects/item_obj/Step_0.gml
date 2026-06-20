@@ -17,20 +17,26 @@ if(place_meeting(x,y,player_obj)){
     {
         var item = global.inventory[i];
 
-        if(item.nome == nome){
+        if(item.nome == sprite_index){
 			item.qtd = item.qtd+1
 			existe_item = 1
 		}
     }
 	
-	if(existe_item == 0){
-		array_push(global.inventory, {
-		    nome: nome,
-		    qtd: 1
-		});
+	if(array_length(global.inventory) < 34){
+		if(existe_item == 0){
+			array_push(global.inventory, {
+			    nome: sprite_index,
+			    qtd: 1
+			});
+		}
+		
+		instance_destroy()
 	}
 	
-	instance_destroy()	
+	if(existe_item == 1){	
+		instance_destroy()	
+	}
 }
 
 function craft(recipe)
